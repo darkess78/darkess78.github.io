@@ -64,32 +64,32 @@ nav a {
 }
 
 .front {
-  transform: translateZ(25px);
+  transform: translateZ(250px);
   background-color: #00bcd4;
 }
 
 .back {
-  transform: translateZ(-25px);
+  transform: translateZ(-250px);
   background-color: #4caf50;
 }
 
 .left {
-  transform: rotateY(-90deg) translateZ(25px);
+  transform: rotateY(-90deg) translateZ(250px);
   background-color: #9c27b0;
 }
 
 .right {
-  transform: rotateY(90deg) translateZ(25px);
+  transform: rotateY(90deg) translateZ(250px);
   background-color: #f44336;
 }
 
 .top {
-  transform: rotateX(90deg) translateZ(25px);
+  transform: rotateX(90deg) translateZ(250px);
   background-color: #2196f3;
 }
 
 .bottom {
-  transform: rotateX(-90deg) translateZ(25px);
+  transform: rotateX(-90deg) translateZ(250px);
   background-color: #ff9800;
 }
 
